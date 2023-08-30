@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_photos"
+        android:title="Photos"
+        android:icon="@drawable/as_photo_icon"/>
+</menu>
